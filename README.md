@@ -27,7 +27,7 @@ install using npm install
 ## Usage tips
 
 use "npm run start" to get this app running. then open localhost/3000
-
+![image](https://user-images.githubusercontent.com/88224502/148938099-052fa0db-925d-4da1-bd8e-44490ace4803.png)
 
 <a name="quest"></a>
 ## Questions
