@@ -1,6 +1,6 @@
 # JATE - text editor
 
- https://immense-waters-54645.herokuapp.com/
+ [Deployed app](https://immense-waters-54645.herokuapp.com/)
 
 ## Table of Contents
 [ Description. ](#desc)
@@ -30,7 +30,7 @@ use "npm run start" to get this app running. then open localhost/3000
 
 
 <a name="quest"></a>
-## 6. Questions
+## Questions
 for any other questions about this project contact me via..
 
 Github: https://github.com/TomIHAU
