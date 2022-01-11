@@ -1,13 +1,12 @@
 # JATE - text editor
- 
+
+ https://immense-waters-54645.herokuapp.com/
 
 ## Table of Contents
-1. [ Description. ](#desc)
-2. [ Installation. ](#inst)
-3. [ Usage tips. ](#usage)
-4. [ Contributing. ](#contr)
-5. [ Tests. ](#tests)
-6. [ Questions. ](#quest)
+[ Description. ](#desc)
+[ Installation. ](#inst)
+[ Usage tips. ](#usage)
+[ Questions. ](#quest)
 
 ## Licenses
 
@@ -15,17 +14,17 @@
 
 
 <a name="desc"></a>
-## 1. Description
+## Description
 
 A simple text editor that uses caching and indexDB. It can be installed as an app.
 
 <a name="inst"></a>
-## 2. Installation
+## Installation
 
 install using npm install
 
 <a name="usage"></a>
-## 3. Usage tips
+## Usage tips
 
 use "npm run start" to get this app running. then open localhost/3000
 
